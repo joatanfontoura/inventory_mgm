@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Inventory Management">6d117a2d831102102f3e55a6feaad3af</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Product Request</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_818956_inven_mgm_product</name>
+        <order>500</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_818956_inven_mgm.perfil_supervisor</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 12:33:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e2c1f26d831102102f3e55a6feaad316</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Create</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Inventory Management" source="x_818956_inven_mgm">53f6b394839142102f3e55a6feaad35e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Management">53f6b394839142102f3e55a6feaad35e</sys_scope>
+        <sys_update_name>sys_app_module_e2c1f26d831102102f3e55a6feaad316</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 13:13:16</sys_updated_on>
+        <timeline_page/>
+        <title>Create</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Inventory Management">53f6b394839142102f3e55a6feaad35e</application>
+        <file_path/>
+        <instance_id>3351d0541b198610168f4089bd4bcbe8</instance_id>
+        <instance_name>dev250458</instance_name>
+        <name>sys_app_module_e2c1f26d831102102f3e55a6feaad316</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Inventory Management">6d117a2d831102102f3e55a6feaad3af</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Product Request</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_818956_inven_mgm_product</name><order>500</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_818956_inven_mgm.perfil_supervisor</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-01 12:33:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e2c1f26d831102102f3e55a6feaad316</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Create</sys_name><sys_overrides/><sys_package display_value="Inventory Management" source="x_818956_inven_mgm">53f6b394839142102f3e55a6feaad35e</sys_package><sys_policy/><sys_scope display_value="Inventory Management">53f6b394839142102f3e55a6feaad35e</sys_scope><sys_update_name>sys_app_module_e2c1f26d831102102f3e55a6feaad316</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-01 13:13:16</sys_updated_on><timeline_page/><title>Create</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1820490402</payload_hash>
+        <record_name>Create</record_name>
+        <reverted_from/>
+        <source>bcfa7f5c839142102f3e55a6feaad380</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 13:13:16</sys_created_on>
+        <sys_id>28da72a9835102102f3e55a6feaad3d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e99caed810000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 13:13:16</sys_updated_on>
+        <type>Module</type>
+        <update_guid>acda72a975510210fb6affea933314d4</update_guid>
+        <update_guid_history>acda72a975510210fb6affea933314d4:1820490402,eec1f26d251102102e9bb92e48c35217:-1428540942</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create">77fab2a9835102102f3e55a6feaad308</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-01 13:14:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>124d6ab6ce8e41f096a061010abeb071</sys_id>
+        <sys_metadata>e2c1f26d831102102f3e55a6feaad316</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_818956_inven_mgm_product</sys_name>
+        <sys_package display_value="Inventory Management" source="x_818956_inven_mgm">53f6b394839142102f3e55a6feaad35e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Management">53f6b394839142102f3e55a6feaad35e</sys_scope>
+        <sys_scope_delete display_value="">027a85ff5531442ca7987669beba6824</sys_scope_delete>
+        <sys_update_name>sys_app_module_e2c1f26d831102102f3e55a6feaad316</sys_update_name>
+        <sys_update_version display_value="sys_app_module_e2c1f26d831102102f3e55a6feaad316">28da72a9835102102f3e55a6feaad3d5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-01 13:14:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="70eb3f9c839142102f3e55a6feaad3b7" extends="task" label="Product Request" max_length="40" name="x_818956_inven_mgm_product_request" type="collection">
+        <element label="Delivered" max_length="40" name="delivered" type="boolean"/>
+        <element label="Product" max_length="32" name="product" reference="x_818956_inven_mgm_product" type="reference"/>
+    </element>
+</database>

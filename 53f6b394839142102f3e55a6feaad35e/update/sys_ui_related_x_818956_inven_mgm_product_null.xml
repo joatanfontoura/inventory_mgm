@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_818956_inven_mgm_product" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Product - Default view" name="x_818956_inven_mgm_product" related_list="NULL" sys_domain="global" view="Default view">82654b69839102102f3e55a6feaad3d8</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_818956_inven_mgm_product_request.product</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-01 13:59:32</sys_created_on>
+            <sys_id>42654b69839102102f3e55a6feaad3d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-01 13:59:32</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Product - Default view</calculated_name>
+            <filter/>
+            <name>x_818956_inven_mgm_product</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-01 13:59:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82654b69839102102f3e55a6feaad3d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Product - Default view</sys_name>
+            <sys_package display_value="Inventory Management" source="x_818956_inven_mgm">53f6b394839142102f3e55a6feaad35e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Inventory Management">53f6b394839142102f3e55a6feaad35e</sys_scope>
+            <sys_update_name>sys_ui_related_x_818956_inven_mgm_product_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-01 13:59:32</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
